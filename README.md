@@ -1,1 +1,1 @@
-# tdd_python
+João Vitor Lembeck e Luis Felipe Francisco
